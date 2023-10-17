@@ -1,0 +1,33 @@
+/* OVERRIDE ANY DEFAULT STYLES FROM BROWSER */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* SET BODY DEFAULTS */
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /* generic project styles */
+    color: #3a3a3a;
+}
+
+/* HEADER */
+header {
+    background-color: lightcoral;
+}
+
+/* MAIN CONTENT */
+Main {
+    background-color: lightblue;
+    /* make main element take all available screen realestate */
+    flex: 1 0 auto;
+}
+
+/* FOOTER */
+footer {
+    background-color:orange;
+    
+}
