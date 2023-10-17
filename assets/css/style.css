@@ -82,6 +82,8 @@ nav {
     font-size: 2rem;
 }
 
+
+
 /* Main content */
 main {
     background-color: lightblue;
@@ -117,4 +119,16 @@ footer {
     .nav-toggle-label {
         display: none;
     }
+
+        #logo {
+            font-size: 280%;
+            line-height: 75px;
+            margin: 0 0.5rem;
+        }
+
+        /* adjust main content */
+        main {
+            /* push main content dow on larger screens */ 
+            margin-top: 79px;
+        }
 }
