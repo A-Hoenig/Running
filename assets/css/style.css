@@ -92,9 +92,20 @@ main {
     margin-top: 47px;
 }
 
-/* Footer */
-footer {
-    background-color: orange;
+/* FOOTER */
+
+#social-networks {
+    text-align: center;
+    padding: 20px;
+    display:flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: #3a3a3a;
 }
 
 /* Media query: tables and larger (768px and up */
