@@ -200,6 +200,8 @@ hr {
     line-height: 0;
 }
 
+
+
 /* SIGNUP PAGE*/
     #signup {
 
@@ -218,7 +220,7 @@ hr {
 
     .text-input {
         background: transparent;
-        color: fafafa;
+        color: #fafafa;
         border: 1px solid #fafafa;
         border-radius: 2px;
         width: 100%;
