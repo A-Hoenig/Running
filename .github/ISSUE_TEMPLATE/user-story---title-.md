@@ -16,7 +16,7 @@ in order to **recieve benefit** as a **role**, I can **goal/desire**
 * Crit 3:
 
 ## Tasks:
-* Task1:  **individual**
-* Task2:  **individual**
-* Task3:  **individual**
-* Task4:  **individual**
+- [ ] Task / Owner
+- [ ] Task / Owner
+- [ ] Task / Owner
+- [ ] (Optional) Open a followup issue
